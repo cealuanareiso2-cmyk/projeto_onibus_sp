@@ -1,32 +1,9 @@
-# 📊 Projeto de Engenharia de Dados — Mobilidade Urbana
+# Projeto Ônibus SP
 
-## 📌 Objetivo
-Construir pipeline completo de dados de transporte urbano com:
+Projeto de Engenharia de Dados com modelo estrela, PostgreSQL e Power BI.
 
-- ETL em Python
+## Tecnologias
 - PostgreSQL
-- Modelagem Star Schema
-- Dashboard Executivo no Power BI
-
-## 🏗 Arquitetura
-
-Raw Data → ETL Python → PostgreSQL → Data Warehouse → Power BI
-
-## 🔧 Tecnologias
-
 - Python
-- Pandas
-- PostgreSQL
-- Airflow (Simulado)
 - Power BI
 
-## 📈 Estrutura do Projeto
-
-data/ → Dados brutos e processados  
-etl/ → Scripts de extração, transformação e carga  
-sql/ → Scripts de criação do banco e modelo estrela  
-dashboard/ → Prints do Power BI  
-
-## 📷 Dashboard
-
-(Adicionar imagens aqui)
