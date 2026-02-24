@@ -1,0 +1,4 @@
+id_linha,id_veiculo,data_viagem,passageiros
+3,201,2026-02-03,95
+4,202,2026-02-03,110
+3,203,2026-02-03,130

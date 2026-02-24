@@ -1,0 +1,3 @@
+id_linha,id_veiculo,data_viagem,passageiros
+1,101,2026-02-05,130
+2,102,2026-02-05,90
